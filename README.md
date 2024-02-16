@@ -1,10 +1,10 @@
-Installation
+## **Installation**
 
 To clone this repository, execute the following command in your terminal:
 
 
 
-git clone <repository_url>
+git clone https://github.com/toqqaa/myrobot.git
 
 
 Usage
