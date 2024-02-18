@@ -22,6 +22,10 @@ Install Navigation Stack and AMCL: The navigation stack includes packages such a
 
 sudo apt install ros-noetic-navigation
 
+install Spatio-Temporal Voxel Layer:
+
+sudo apt-get install ros-noetic-spatio-temporal-voxel-layer
+
 ## **Usage**
 
 To clone this repository, execute the following command in your terminal:
