@@ -2,7 +2,7 @@ max_obstacle_height: 0.60
 
 # footprint: [[-0.3, -0.275], [-0.3, 0.275], [0.3, 0.275], [0.3, -0.275]]
 
-robot_radius: 0.6
+robot_radius: 0.2
 
 laser_layer:
   observation_sources:  scan 
